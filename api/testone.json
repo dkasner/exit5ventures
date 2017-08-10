@@ -18,7 +18,7 @@
             "get": {
                 "description": "get list of accounts"
             }
-        }
+        },
         "/users": {
             "get": {
                 "description": "get list of users"
